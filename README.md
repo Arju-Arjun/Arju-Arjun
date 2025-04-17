@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
@@ -67,9 +68,16 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My GitHub Stats :</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Arju-Arjun&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Arju-Arjun&theme=dark&hide_border=false" height="200" alt="streak stats" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arju-Arjun&show_icons=true&theme=dark&hide_border=false" height="200" alt="github stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arju-Arjun&layout=compact&theme=dark&hide_border=false" height="200" alt="top langs" />
+</div>
